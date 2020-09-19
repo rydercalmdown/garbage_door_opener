@@ -1,5 +1,5 @@
-# Door Opener - Raspberry Pi
-This simple script plays a sound when you open the door. Sorry about the poor quality docs - I'm going to try to document more effectively for future projects.
+# Garbage Door Opener - Raspberry Pi
+This simple script plays a sound when you open the door. Sorry about the poor quality docs - I'm going to try to document more effectively for future projects. [View the project on YouTube here.](https://www.youtube.com/watch?v=nlJdmeuDWis)
 
 
 ## Getting Started
