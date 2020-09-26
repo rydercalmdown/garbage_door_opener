@@ -5,7 +5,7 @@ import subprocess
 
 
 def play_audio():
-    audio = '/home/pi/app/bbq.mp3'
+    audio = '/home/pi/garbage_door_opener/app/garbage.mp3'
     print('playing {}'.format(audio))
     subprocess.call(['mpg321', audio])
 
